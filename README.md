@@ -1,6 +1,6 @@
 # ChatGPT Telegram Bot
 
-![Bot Screenshot](bot_screenshot.png)
+![Bot Screenshot](https://editor.analyticsvidhya.com/uploads/349973.jpg)
 
 ## Features
 
