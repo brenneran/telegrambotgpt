@@ -19,5 +19,5 @@
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/chatgpt-telegram-bot.git
+git clone git@github.com:brenneran/telegrambotgpt.git
 
