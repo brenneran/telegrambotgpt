@@ -20,4 +20,4 @@
 
 ```bash
 git clone https://github.com/yourusername/chatgpt-telegram-bot.git
-pip install -r requirements.txt
+
